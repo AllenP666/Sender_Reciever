@@ -1,1 +1,5 @@
 .idea
+/main.spec
+/server.spec
+/venv/
+/build/
